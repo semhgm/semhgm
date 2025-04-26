@@ -2,7 +2,7 @@ Hello, I'm Semih! 👋
 
 🚀 About Me
 
-I'm Semih, a Software Engineering student at Fırat University. Passionate about technology and innovation, I am a leader of the SmartHaven team. Additionally, I am part of the management team of the Teknofest club and volunteer at the T3 Foundation.
+I'm Semih, a Software Engineering student at Fırat University. Passionate about technology and innovation, I am part of the management team of the Teknofest club and volunteer at the T3 Foundation.
 
 💡 My Interests
 
@@ -10,7 +10,6 @@ Artificial Intelligence & Machine Learning 🤖
 
 Web and Desktop Applications 💻
 
-Smart Home Technologies 🏠
 
 Educational Technologies 🎓
 
@@ -28,7 +27,6 @@ Others: C#, Windows Forms, Python
 
 DailyRoutine: A desktop automation system for planning your daily, weekly, and monthly tasks.
 
-SmartHaven: Our smart home assistant development project.
 
 Full-Stack Web Applications: Various web projects built with Laravel, integrating both frontend and backend functionalities.
 
