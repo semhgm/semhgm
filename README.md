@@ -2,8 +2,7 @@ Hello, I'm Semih! 👋
 
 🚀 About Me
 
-I'm Semih, a Software Engineering student at Fırat University. Passionate about technology and innovation, I am part of the management team of the Teknofest club and volunteer at the T3 Foundation.
-
+I'm Semih, a Software Engineering student at Fırat University.
 💡 My Interests
 
 Artificial Intelligence & Machine Learning 🤖
