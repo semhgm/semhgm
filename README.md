@@ -44,14 +44,14 @@ Currently working on production systems serving **45,000+ users** and actively s
 
 ## 🎯 Featured Projects
 
-### 🔥 [University Automation Systems]([https://github.com/semhgm/university-systems](https://ddyo.firat.edu.tr/))
+### 🔥 [University Automation Systems](https://ddyo.firat.edu.tr/)
 Production applications serving **45,000+ users**
 - **Tech:** Laravel, Inertia.js, Vue 3, MySQL, Pest
 - Legislation System, Erasmus Management, Conference Room Booking
 - 60% performance improvement through database optimization
 - Third-party API integrations (Turna System)
 
-### 🤖 [AI-Powered Exam Platform]([https://github.com/semhgm/exam-platform](https://github.com/semhgm/yapay-zeka-sinav-asistani))
+### 🤖 [AI-Powered Exam Platform](https://github.com/semhgm/yapay-zeka-sinav-asistani)
 Full-stack examination management with AI recommendations
 - **Tech:** Laravel, Inertia.js, Vue 3, OpenAI API, MySQL
 - Multi-role support (teachers, students, admin)
